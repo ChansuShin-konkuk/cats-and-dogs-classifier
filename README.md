@@ -4,7 +4,7 @@ It is referring to a github repositories(https://github.com/mohitwildbeast/Cats-
 
 
 # 1. Runtime environments
-1.1. (Optional) Anaconda prompt< 
+1.1. (Optional) Anaconda prompt<br>
 1.2. (Optional) Virtual Environments
 1.3. Python 3.7.6
 
