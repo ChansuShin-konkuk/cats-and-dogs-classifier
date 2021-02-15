@@ -1,0 +1,13 @@
+# pillow for anaconda environment to avoid PIL error
+pillow
+Flask==1.0.2
+Flask-Cors==3.0.7
+future==0.17.1
+gunicorn==19.9.0
+Keras==2.2.4
+matplotlib==3.0.3
+numpy==1.16.2
+opencv-python==3.4.3.18
+Tensorflow-gpu==1.15
+# pinning h5py version to 2.10.0 to avoid problem : AttributeError: 'str' object has no attribute 'decode'
+h5py==2.10.0
