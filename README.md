@@ -9,7 +9,6 @@ It is referring to a github repositories(https://github.com/mohitwildbeast/Cats-
 1.3. Python 3.7.6
 
 # 2. Requirements
------------------
 Pillow==8.1.0
 Flask==1.0.2
 Flask-Cors==3.0.7
@@ -22,9 +21,7 @@ opencv-python==3.4.3.18
 tensorflow-gpu==1.15
 h5py==2.10.0
 
-
 # 3. Usage
------------------
 3.1. Install Chrome
 3.2. Open Command prompt
 3.2. Enter 'pip install -r requirements.txt' 
