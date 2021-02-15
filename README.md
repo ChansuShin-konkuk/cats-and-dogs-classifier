@@ -24,8 +24,8 @@ h5py==2.10.0
 # 3. Usage
 3.1. Install Chrome<br>
 3.2. Open Command prompt<br>
-3.2. Enter 'pip install -r requirements.txt' <br>  
-3.3. Enter 'python app.py' <br>
-3.4. Go to web browser and enter http://127.0.0.1:5000 <br>
-3.5. Click 'Select Image' button and select cat or dog images <br> 
-3.6. Click 'Upload' button and watch classifcation result of your image
+3.3. Enter 'pip install -r requirements.txt' <br>  
+3.4. Enter 'python app.py' <br>
+3.5. Go to web browser and enter http://127.0.0.1:5000 <br>
+3.6. Click 'Select Image' button and select cat or dog images <br> 
+3.7. Click 'Upload' button and watch classifcation result of your image
