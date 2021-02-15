@@ -1,6 +1,6 @@
 Cats and dogs classifier
 ========================
-It is referring to a github repositories(https://github.com/mohitwildbeast/Cats-vs-Dogs-Classification-Flask-WebApp/)
+It is referring to a github repository(https://github.com/mohitwildbeast/Cats-vs-Dogs-Classification-Flask-WebApp/)
 
 
 # 1. Runtime environments
